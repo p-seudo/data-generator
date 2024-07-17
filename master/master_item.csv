@@ -1,0 +1,100 @@
+manufacturer_code,item_muc,item_name,item_description,item_pack_size,item_category
+601,10001,Dove Soap,"Dove beauty bar gently cleanses and moisturizes your skin, leaving it soft and smooth",100 g,Personal Care
+601,10002,Surf Excel Detergent,"Surf Excel Matic front load detergent powder ensures stain removal, bright clothes, and long-lasting fragrance",1 kg,Home Care
+601,10003,Knorr Soup,Knorr classic thick tomato soup with a delightful taste of tomatoes and real vegetables,53 g,Food Products
+601,10004,Lipton Green Tea,"Lipton pure and light green tea leaves, for a refreshing and healthy drink",100 g,Beverages
+601,10005,Pears Soap,Pears pure and gentle soap with natural oils and glycerin for soft and moisturized skin,125 g,Personal Care
+601,10006,Tresemme Shampoo,"Tresemme keratin smooth shampoo with argan oil, helps control frizz and makes hair smooth and shiny",185 ml,Personal Care
+601,10007,Kissan Ketchup,"Kissan fresh tomato ketchup, made from sun-ripened tomatoes for a tangy taste",500 g,Food Products
+601,10008,Closeup Toothpaste,"Closeup deep action toothpaste, with active zinc mouthwash for long-lasting fresh breath and strong teeth",150 g,Personal Care
+601,10009,Bru Instant Coffee,"Bru instant coffee, made from a fine blend of coffee and chicory for a perfect cup every time",100 g,Beverages
+601,10010,Rin Detergent,"Rin detergent powder, brightens clothes and removes tough stains effectively",1 kg,Home Care
+602,20001,Pampers Diapers,"Pampers baby dry diapers, with magic gel that locks wetness away for up to 12 hours of dryness",Medium,Baby Care
+602,20002,Ariel Detergent,"Ariel Matic front load detergent powder, removes tough stains and keeps clothes bright",1 kg,Home Care
+602,20003,Head & Shoulders Shampoo,"Head & Shoulders anti-dandruff shampoo, with menthol for a cooling sensation and healthy scalp",375 ml,Personal Care
+602,20004,Whisper Sanitary Pads,"Whisper ultra soft sanitary pads, with 1000 suction holes for clean, dry protection",Regular,Feminine Hygiene
+602,20005,Gillette Razor,"Gillette Mach3 razor, with 3 blades for a close and comfortable shave",1 count,Personal Care
+602,20006,Olay Moisturizer,"Olay total effects 7-in-1 anti-ageing moisturizer, fights the 7 signs of ageing for younger-looking skin",50 g,Personal Care
+602,20007,Pantene Shampoo,"Pantene hair fall control shampoo, strengthens hair from root to tip and reduces hair fall",340 ml,Personal Care
+602,20008,Vicks Vaporub,"Vicks vaporub, provides relief from cold symptoms like cough and congestion",50 g,Healthcare
+602,20009,Oral-B Toothbrush,"Oral-B cross action toothbrush, with angled bristles to reach deep between teeth",1 count,Personal Care
+602,20010,Old Spice Deodorant,"Old Spice original deodorant spray, with a fresh and masculine fragrance",150 ml,Personal Care
+603,30001,Maggi Noodles,"Maggi instant noodles, ready in just 2 minutes, with a delicious taste of spices and vegetables",70 g,Food Products
+603,30002,KitKat Chocolate,"KitKat chocolate bar, with crispy wafer fingers coated in delicious milk chocolate",37 g,Snacks
+603,30003,Nescafe Coffee,"Nescafe classic coffee, made from medium-dark roasted coffee beans for a rich aroma and smooth taste",50 g,Beverages
+603,30004,Everyday Dairy Whitener,"Everyday dairy whitener, adds a rich and creamy taste to your tea and coffee",200 g,Beverages
+603,30005,Cerelac Baby Cereal,"Cerelac infant cereal stage 1, fortified with iron and essential vitamins for healthy growth",300 g,Baby Care
+603,30006,Munch Chocolate,"Nestle Munch chocolate bar, with crunchy caramel and rich chocolate, a perfect snack",32 g,Snacks
+603,30007,Milkmaid Condensed Milk,"Milkmaid sweetened condensed milk, makes delicious desserts and sweets",400 g,Food Products
+603,30008,Maggi Ketchup,"Maggi hot and sweet tomato ketchup, adds a tangy twist to your snacks and meals",500 g,Food Products
+603,30009,Milkybar Chocolate,"Milkybar white chocolate, made with milk and creamy cocoa butter for a smooth texture and milky taste",50 g,Snacks
+603,30010,Bar-One Chocolate,"Nestle Bar-One chocolate bar, with crunchy wafer and rich chocolate for an energy boost",19 g,Snacks
+604,40001,Dabur Honey,"Dabur honey, 100% pure and natural honey for daily health and nutrition",500 g,Food Products
+604,40002,Dabur Chyawanprash,"Dabur Chyawanprash, enriched with Ayurvedic herbs for immunity and strength",1 kg,Healthcare
+604,40003,Dabur Amla Hair Oil,"Dabur Amla hair oil, with the goodness of amla for strong, healthy hair",200 ml,Personal Care
+604,40004,Dabur Red Toothpaste,"Dabur Red toothpaste, with natural ingredients for strong teeth and fresh breath",200 g,Personal Care
+604,40005,Dabur Gulabari Rose Water,"Dabur Gulabari rose water, natural skin toner that cleanses and refreshes your skin",250 ml,Personal Care
+604,40006,Real Fruit Juice,"Real mixed fruit juice, made with real fruits and no added preservatives or colors",1 L,Beverages
+604,40007,Hajmola Digestive Tablets,"Dabur Hajmola digestive tablets, a tasty way to aid digestion and relieve acidity",120 count,Healthcare
+604,40008,Fem Bleach,"Fem herbal bleach, with natural ingredients that lighten facial hair without harming the skin",30 g,Personal Care
+604,40009,Odopic Dishwashing Liquid,"Dabur Odopic dishwashing liquid, cuts through grease and leaves dishes sparkling clean",500 ml,Home Care
+604,40010,Dabur Lal Tail,"Dabur Lal Tail, Ayurvedic massage oil for baby's overall growth and development",500 ml,Baby Care
+605,50001,Patanjali Dant Kanti Toothpaste,"Patanjali Dant Kanti toothpaste, herbal formulation for strong gums and teeth",200 g,Personal Care
+605,50002,Patanjali Aloe Vera Gel,"Patanjali Aloe Vera gel, natural skin moisturizer and healer for all skin types",150 ml,Personal Care
+605,50003,Patanjali Kesh Kanti Shampoo,"Patanjali Kesh Kanti natural hair cleanser, with herbal extracts for healthy and shiny hair",200 ml,Personal Care
+605,50004,Patanjali Honey,"Patanjali honey, pure and natural honey sourced from Himalayan forests",500 g,Food Products
+605,50005,Patanjali Badam Pak,"Patanjali Badam Pak, nutritious supplement with almonds for strength and energy",500 g,Healthcare
+605,50006,Patanjali Amla Juice,"Patanjali Amla juice, rich in Vitamin C and antioxidants for overall health and immunity",1 L,Beverages
+605,50007,Patanjali Multani Mitti Soap,"Patanjali Multani Mitti body cleanser, with natural clay for deep cleansing and exfoliation",75 g,Personal Care
+605,50008,Patanjali Detergent Powder,"Patanjali detergent powder, herbal formulation that cleans clothes effectively and gently",1 kg,Home Care
+605,50009,Patanjali Oats,"Patanjali oats, nutritious and healthy option for breakfast, rich in fiber and essential nutrients",500 g,Food Products
+605,50010,Patanjali Chyawanprash,"Patanjali Chyawanprash, with Ayurvedic herbs for immunity and strength, suitable for all ages",1 kg,Healthcare
+606,60001,Britannia Good Day Biscuits,"Britannia Good Day butter cookies, with a rich and buttery taste, perfect with tea or coffee",75 g,Snacks
+606,60002,Britannia Marie Gold Biscuits,"Britannia Marie Gold biscuits, light and crunchy biscuits, a perfect tea-time snack",120 g,Snacks
+606,60003,Britannia Bourbon Chocolate,"Britannia Bourbon chocolate cream biscuits, rich chocolate cream between crispy biscuits",150 g,Snacks
+606,60004,Britannia Cake,"Britannia fruit cake, loaded with rich fruits and nuts, a delightful treat for any occasion",200 g,Snacks
+606,60005,Britannia Rusk,"Britannia rusk, crunchy and delicious, perfect for dipping in tea or coffee",273 g,Snacks
+606,60006,Britannia Milk Bikis Biscuits,"Britannia Milk Bikis biscuits, enriched with the goodness of milk, a favorite among kids",100 g,Snacks
+606,60007,Britannia NutriChoice Digestive Biscuits,"Britannia NutriChoice digestive biscuits, with the goodness of whole wheat and fiber",250 g,Snacks
+606,60008,Britannia Cheese,"Britannia cheese slice, made from pure milk for a rich and creamy taste, perfect for sandwiches",200 g,Food Products
+606,60009,Britannia Milk,"Britannia toned milk, enriched with essential nutrients for a healthy lifestyle",1 L,Beverages
+606,60010,Britannia Ghee,"Britannia cow ghee, made from pure cow's milk for a rich and authentic flavor",500 g,Food Products
+607,70001,Colgate Toothpaste,"Colgate strong teeth toothpaste, with fluoride for cavity protection and fresh breath",200 g,Personal Care
+607,70002,Palmolive Shower Gel,"Palmolive aroma therapy shower gel, with essential oils for a luxurious bathing experience",250 ml,Personal Care
+607,70003,Protex Soap,"Protex deep clean soap, with antibacterial formula for protection against germs",75 g,Personal Care
+607,70004,Axion Dishwashing Paste,"Axion dishwashing paste, cuts through grease and leaves dishes sparkling clean",400 g,Home Care
+607,70005,Hills Biscuits,"Hills cream biscuits, rich and creamy biscuits, a delightful treat for any time of the day",100 g,Snacks
+607,70006,Vivel Soap,"Vivel luxury creme soap, with almond oil and butter for soft and smooth skin",100 g,Personal Care
+607,70007,Cibaca Toothbrush,"Cibaca toothbrush, with soft bristles for effective cleaning and gentle on gums",1 count,Personal Care
+607,70008,Colgate Mouthwash,"Colgate Plax mouthwash, with antibacterial properties for long-lasting fresh breath",250 ml,Personal Care
+607,70009,Cibaca Salt Toothpaste,"Cibaca salt toothpaste, with natural salt and minerals for healthy teeth and gums",200 g,Personal Care
+607,70010,Ajanta Toothpaste,"Ajanta toothpaste, with natural ingredients for strong teeth and fresh breath",150 g,Personal Care
+608,80001,Sunfeast Yippee Noodles,"Sunfeast Yippee noodles, with the goodness of wheat and delicious masala taste",75 g,Food Products
+608,80002,Classmate Notebook,"Classmate 200 pages single line notebook, ideal for school and college students",200 pages,Stationery
+608,80003,Fiama Di Wills Soap,"Fiama Di Wills gel bar soap, with skin conditioners for soft and glowing skin",125 g,Personal Care
+608,80004,Bingo Potato Chips,"Bingo Mad Angles potato chips, with a tangy twist of Indian spices for a unique taste",80 g,Snacks
+608,80005,Aashirvaad Atta,"Aashirvaad whole wheat atta, made from carefully selected wheat grains for soft and fluffy rotis",5 kg,Food Products
+608,80006,Savlon Antiseptic Liquid,"Savlon antiseptic liquid, with powerful germ protection for minor cuts and wounds",500 ml,Healthcare
+608,80007,Sunfeast Dark Fantasy Chocolate,"Sunfeast Dark Fantasy choco fills cookies, with a rich chocolatey filling inside",75 g,Snacks
+608,80008,Vivel Body Wash,"Vivel satin soft body wash, with almond oil and shea butter for soft and moisturized skin",200 ml,Personal Care
+608,80009,Dermafique Face Serum,"Dermafique serum, with advanced skincare technology for youthful and radiant skin",30 ml,Personal Care
+608,80010,Mangaldeep Agarbatti,"Mangaldeep agarbatti, with natural fragrances for a divine and calming atmosphere",250 g,Home Care
+609,90001,Parachute Coconut Oil,"Parachute pure coconut hair oil, with the goodness of coconut for strong and healthy hair",500 ml,Personal Care
+609,90002,Saffola Oil,"Saffola gold edible oil, enriched with natural antioxidants for heart health",1 L,Food Products
+609,90003,Set Wet Hair Gel,"Set Wet hair gel, for a wet and stylish look with long-lasting hold and shine",100 ml,Personal Care
+609,90004,Mediker Shampoo,"Mediker anti-lice shampoo, with neem and coconut extracts for effective lice removal",200 ml,Personal Care
+609,90005,Revive Shampoo,"Revive shampoo, with argan oil and keratin for deep nourishment and repair of damaged hair",250 ml,Personal Care
+609,90006,Veggie Clean,"Veggie Clean vegetable wash, removes pesticides and germs from fruits and vegetables",200 ml,Home Care
+609,90007,Sil Hair Conditioner,"Silky and Soft hair conditioner, with silicon conditioning agents for smooth and manageable hair",80 ml,Personal Care
+609,90008,Livon Hair Serum,"Livon hair serum, with vitamin E for instant shine and frizz-free hair",100 ml,Personal Care
+609,90009,Set Wet Deodorant,"Set Wet cool deodorant, with a fresh and cool fragrance for all-day freshness",150 ml,Personal Care
+609,90010,Saffola Masala Oats,"Saffola masala oats, a nutritious meal with the goodness of oats and vegetables",40 g,Food Products
+610,100001,Godrej No.1 Soap,"Godrej No.1 sandal and turmeric soap, enriched with natural oils for soft and glowing skin",100 g,Personal Care
+610,100002,Good Knight Mosquito Repellent,"Good Knight advanced mosquito repellent, protects against mosquitoes for up to 12 hours",45 ml,Home Care
+610,100003,Cinthol Soap,"Cinthol original soap, with refreshing and deodorizing properties, for an active lifestyle",100 g,Personal Care
+610,100004,Hit Spray,"Hit mosquito and fly spray, kills mosquitoes and flies instantly, safe for indoor use",200 ml,Home Care
+610,100005,Godrej Aer Air Freshener,"Godrej Aer click air freshener, with a fragrance that lasts up to 60 days",10 g,Home Care
+610,100006,Godrej Nupur Henna,"Godrej Nupur henna, with 9 herbs for natural color and care for your hair",400 g,Personal Care
+610,100007,Ezee Liquid Detergent,"Ezee liquid detergent, for gentle and effective washing of delicate fabrics",1 L,Home Care
+610,100008,Expert Liquid Dishwash,"Expert liquid dishwash, tough on grease and gentle on hands, for sparkling clean dishes",750 ml,Home Care
+610,100009,Godrej Shikakai Shampoo,"Godrej Shikakai shampoo, with natural extracts of shikakai for clean and healthy hair",200 ml,Personal Care
